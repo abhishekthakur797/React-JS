@@ -1,0 +1,31 @@
+-> Why to learn React?
+   Hype, Job, Trend, build UI.
+   makes easy to manage & build complex front end.
+
+-> Why react was created?
+   Sync problem, complex UI, Efficient DOM Manipulation.
+
+-> When it was created?
+   React.js was created by Jordan Walke, a software engineer at Facebook, in 2011.
+
+-> First adapted by khan academy and unsplash.
+
+-> Learning process 1.go in depth 2.By making projects.
+
+-> Framework vs library
+A library provides specific functionality to be used within your code 
+(e.g., React for UI components), while a framework offers a complete 
+structure and rules for building an application (e.g., Angular or Next.js), 
+controlling the overall flow.
+
+-> Problem with react js.
+   SEO issue, Complex state Management.
+
+-> React vs Next js
+   Library for building UIs / Framework built on top of React
+   Facebook 2013 / ZEIT 2016
+   client side rendering / Supports CSR, SSR(Server side rendering), SSG, ISR
+   Needs SSR setup manually for better SEO / SEO friendly with out of the box SSR & SSG.
+   Great for SPA(Single-page application) / SEO heavy apps, e-commerce and blogs
+   React - Facebook, Instagram, Netflix, Airbnb, Whatsapp Web , Dropbox, Salesforce, BBC.
+   Next - Vercel , Github, Hulu, Nike, Typescript, Shopify.

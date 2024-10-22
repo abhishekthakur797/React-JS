@@ -1,0 +1,2 @@
+-> react has 2 path one react dom which focus on web and native focus on mobile application.
+-> in terminal create-react-app 01basicReact (slower and bulky)
