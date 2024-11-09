@@ -1,0 +1,7 @@
+Things require to learn React Js.
+1.Node.js environment.
+2.React.dev for documentation.
+
+
+-> in terminal create-react-app 01basicReact (slower and bulky).
+-> There is also option to install bundler like vite or parcel.

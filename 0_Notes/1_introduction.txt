@@ -1,6 +1,11 @@
+:: VIDEO NO 1 -> React JS roadmap
+
+-> React is also called SPA single page application.
+
 -> Why to learn React?
    Hype, Job, Trend, build UI.
    makes easy to manage & build complex front end.
+
 
 -> Why react was created?
    Sync problem, complex UI, Efficient DOM Manipulation.
@@ -29,3 +34,5 @@ controlling the overall flow.
    Great for SPA(Single-page application) / SEO heavy apps, e-commerce and blogs
    React - Facebook, Instagram, Netflix, Airbnb, Whatsapp Web , Dropbox, Salesforce, BBC.
    Next - Vercel , Github, Hulu, Nike, Typescript, Shopify.
+
+-> react has 2 path one react dom which focus on web and native focus on mobile application.
