@@ -1,4 +1,4 @@
-# React Projects with Theroy
+# React Projects with Theory
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -17,10 +17,10 @@ This repository contains my initial projects and notes as I begin my journey wit
 
 ## Projects Created
 
-1. **Background Changer**  
-   A simple app to change the background color dynamically.
-
-2. **Counter Project**  
+1. **Counter Project**  
    A basic counter app to increment and decrement values.
+
+2. **Background Changer**  
+   A simple app to change the background color dynamically.
 
 ---
