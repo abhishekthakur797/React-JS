@@ -18,10 +18,10 @@ function App() {
           >
             Red
           </button>
-          <button onClick={() => {
-            setColor("green");
-          }}
-
+          <button
+            onClick={() => {
+              setColor("green");
+            }}
             className="outline-none border-none font-bold px-4 py-1 rounded-lg"
             style={{ backgroundColor: "green" }}
           >
@@ -31,7 +31,6 @@ function App() {
             onClick={() => {
               setColor("blue");
             }}
-
             className="outline-none border-none font-bold px-4 py-1 rounded-lg"
             style={{ backgroundColor: "blue" }}
           >
@@ -41,7 +40,6 @@ function App() {
             onClick={() => {
               setColor("orange");
             }}
-
             className="outline-none border-none font-bold px-4 py-1 rounded-lg"
             style={{ backgroundColor: "orange" }}
           >
@@ -51,75 +49,74 @@ function App() {
             onClick={() => {
               setColor("black");
             }}
-
             className="outline-none border-none font-bold px-4 py-1 rounded-lg"
             style={{ backgroundColor: "black" }}
           >
             Black
           </button>
           <button
-        onClick={() => setColor("purple")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
-        style={{ backgroundColor: "purple" }}
-      >
-        Purple
-      </button>
-      <button
-        onClick={() => setColor("pink")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
-        style={{ backgroundColor: "pink" }}
-      >
-        Pink
-      </button>
-      <button
-        onClick={() => setColor("yellow")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
-        style={{ backgroundColor: "yellow" }}
-      >
-        Yellow
-      </button>
-      <button
-        onClick={() => setColor("brown")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
-        style={{ backgroundColor: "brown" }}
-      >
-        Brown
-      </button>
-      <button
-        onClick={() => setColor("cyan")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg"
-        style={{ backgroundColor: "cyan" }}
-      >
-        Cyan
-      </button>
-      <button
-        onClick={() => setColor("teal")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
-        style={{ backgroundColor: "teal" }}
-      >
-        Teal
-      </button>
-      <button
-        onClick={() => setColor("gold")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
-        style={{ backgroundColor: "gold" }}
-      >
-        Gold
-      </button>
-      <button
-        onClick={() => setColor("silver")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
-        style={{ backgroundColor: "silver" }}
-      >
-        Silver
-      </button>
-      <button
-        onClick={() => setColor("lime")}
-        className="outline-none border-none font-bold px-4 py-1 rounded-lg"
-        style={{ backgroundColor: "lime" }}
-      >
-        Lime
-      </button>
+            onClick={() => setColor("purple")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
+            style={{ backgroundColor: "purple" }}
+          >
+            Purple
+          </button>
+          <button
+            onClick={() => setColor("pink")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
+            style={{ backgroundColor: "pink" }}
+          >
+            Pink
+          </button>
+          <button
+            onClick={() => setColor("yellow")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
+            style={{ backgroundColor: "yellow" }}
+          >
+            Yellow
+          </button>
+          <button
+            onClick={() => setColor("brown")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
+            style={{ backgroundColor: "brown" }}
+          >
+            Brown
+          </button>
+          <button
+            onClick={() => setColor("cyan")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg"
+            style={{ backgroundColor: "cyan" }}
+          >
+            Cyan
+          </button>
+          <button
+            onClick={() => setColor("teal")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-white"
+            style={{ backgroundColor: "teal" }}
+          >
+            Teal
+          </button>
+          <button
+            onClick={() => setColor("gold")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
+            style={{ backgroundColor: "gold" }}
+          >
+            Gold
+          </button>
+          <button
+            onClick={() => setColor("silver")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg text-black"
+            style={{ backgroundColor: "silver" }}
+          >
+            Silver
+          </button>
+          <button
+            onClick={() => setColor("lime")}
+            className="outline-none border-none font-bold px-4 py-1 rounded-lg"
+            style={{ backgroundColor: "lime" }}
+          >
+            Lime
+          </button>
         </div>
       </div>
     </div>

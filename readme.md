@@ -23,4 +23,7 @@ This repository contains my initial projects and notes as I begin my journey wit
 2. **Background Changer**  
    A simple app to change the background color dynamically.
 
+3. **Random Password Generator**  
+   A Single page application(SPA) random password generator in which we can include numbers, characters, and slide the length of password.
+
 ---
