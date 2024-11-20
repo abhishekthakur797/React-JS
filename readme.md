@@ -9,6 +9,14 @@
 
 ---
 
+**If the project doesn't run, navigate to the project directory in the terminal and execute the following command**
+
+```
+npm install
+```
+
+---
+
 ## Overview
 
 This repository contains my initial projects and notes as I begin my journey with React. It focuses on learning the basics of React while building small projects.
